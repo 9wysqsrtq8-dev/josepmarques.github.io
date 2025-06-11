@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Inyoung Jung"
+title                    : "Soyun Choi"
 description              : # "M.S student at Sungkyunkwan Univ."
-repository               : "nanacoco419/nanacoco419.github.io"
+repository               : "soyunchoi/soyunchoi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Inyoung Jung"
+  name             : "Soyun Choi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "M.S student at Sungkyunkwan Univ."
+  bio              : "Ph.D student at Sungkyunkwan Univ."
   location         : "Seoul, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eiissBIAAAAJ"
-  email            : "jiy03150@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RcVbUFgAAAAJ"
+  email            : "sychoi9719@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nanacoco419" # e.g., "github username"
+  github           : "soyunchoi" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
