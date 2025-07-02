@@ -47,7 +47,7 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 
 # 💡 Projects
 - *2024.07 - Present*: <strong>Development of Reliable, Secure, and Safe Human-AI Alignment Techniques</strong> <br> Funded by Institute for Information & communications Technology Promotion (IITP)
-- *2023.03 - Present*: <strong>RGB-X Path Networks for Multi-modal Multi-task Learning</strong> <br> Funded by National Research Foundation
+- *2023.03 - Present*: <strong>RGB-X Path Networks for Multi-modal Multi-task Learning</strong> <br> Funded by National Research Foundation of Korea (NRF)
 - *2023.03 - 2023.10*: <strong>RGB-D Object Detection and Segmentation based on Multimodal Fusion</strong> <br> Funded by Samsung Electronics
 - *2021.09 - 2023.08*: <strong>Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass</strong> <br> Funded by Samsung Research Funding & Incubation Center for Future Technology
 
