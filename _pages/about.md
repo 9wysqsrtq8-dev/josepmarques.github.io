@@ -55,7 +55,7 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 - *2021.09 - 2023.08*: <strong>Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass</strong> <br> Funded by Samsung Research Funding & Incubation Center for Future Technology
 
 # 🎖 Honors and Awards
-- *2025.11*: Selected as a recipient of the AI SeoulTech Graduate Scholarship, awarded for outstanding research potential in AI.
+- *2025.11*: Selected as <strong>a recipient of the AI SeoulTech Graduate Scholarship</strong>, awarded for outstanding research potential in AI.
 - *2022.02*: <strong>Excellence Award</strong>, Inha Artificial Intelligence Challenge.
 
 # 📖 Educations
