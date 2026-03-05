@@ -43,6 +43,7 @@ I am a first-year Combined M.S/Ph.D. student at SKKU (Sungkyunkwan University), 
 # 💡 Projects
 - *2025.03 - 2025.08*: <strong>Centauro: </strong> <br> Funded by Spanish Ministry of Science, Innovation and Universities
 - *2024.09 - 2025.08*: <strong>Cooperamos: COOPErative Resident robots for Autonomous ManipulatiOn Subsea</strong> <br> Funded by Spanish Ministry of Science and Innovation
+- *2023.01 - 2025.08*: <strong>ROS-based Low-Cost Autonomous Surface Vehicle (ASV)</strong> <br> Internal Funding
 - *2022.09 - 2025.08*: <strong>H2020-El Peacetolero: El-Peacetolero Embedded Electronic solutions for Polymer Innovative Scanning Tools using Light Emitting devices for diagnostic Routines</strong> <br> Funded by European Comission
 
 # 🎖 Honors and Awards
